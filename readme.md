@@ -1,3 +1,6 @@
+This was a assessment for the role of software dev intern. I have  been given 4 hours to built a website from scratch and deploy it on heroku.  
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
